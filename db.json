@@ -1,4 +1,8 @@
 {
+  "temperatures" : [
+  {
 "numerSeryjny" : "abc123",
 "temperaturaCelsjusze" : "-23"
+}
+]
 }
