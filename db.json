@@ -1,8 +1,12 @@
 {
-  "temperatures" : [
-  {
-"numerSeryjny" : "abc123",
-"temperaturaCelsjusze" : "-23"
-}
-]
+  "temperatures": [
+    {
+      "numerSeryjny": "abc123",
+      "temperaturaCelsjusze": "-23"
+    },
+    {
+      "numerSeryjny": "abc222",
+      "temperaturaCelsjusze": "33"
+    }
+  ]
 }
